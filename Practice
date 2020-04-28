@@ -3,7 +3,22 @@ def initialization(name)
 @name=name
 end
 
+def name
+@name
+end
+end 
+
+
+
+
+
 class Dog
 def initialization(name)
 @name=name
 end
+
+def name
+@name
+end 
+
+def initalization
